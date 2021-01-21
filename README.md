@@ -13,7 +13,7 @@
 |---|---|
 | name | SLL (Shift Left Logical) |
 | role | 논리연산자 |
-| type | R – Type |
+| type | R – Type ![R_type](image/R_type.png) |
 | opcode/fuc | op : 000000 / funct : 000000 |
 | meaning | reg[Rd] <= ( reg [Rt] << shamt ) |
 | ex | sll $t1 $t0 2 |
