@@ -8,8 +8,8 @@
 
 <명령어에 대한 기능과 동작>
 1. SLL
-|a|b|
-|---|---|
+|제목|내용|
+|------|---|
 |name|SLL (Shift Left Logical) |
 |role|논리연산자|
 |type|R – Type|
