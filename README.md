@@ -10,6 +10,7 @@
 1. SLL
 
 | SLL | 내용 |
+|---|---|
 | name | SLL (Shift Left Logical) |
 | role | 논리연산자 |
 | type | R – Type |
