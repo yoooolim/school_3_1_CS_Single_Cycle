@@ -1,4 +1,4 @@
 *.v linguist-detectable=true
 *.cpp linguist-detectable=false
-*.html linguist-detectable=false
+*.html linguist-vendored
 *.c linguist-detectable=false
