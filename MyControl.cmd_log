@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Xilinx/modulefuck/MyControl.v -lang verilog -prj modulefuck -o MyControl.spl -module MyControl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family virtex5 MyControl.spl C:/Xilinx/modulefuck/MyControl.sym 

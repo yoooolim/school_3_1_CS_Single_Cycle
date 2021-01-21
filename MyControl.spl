@@ -1,0 +1,17 @@
+[Inputs]
+=op[5:0]=
+[Outputs]
+Jump
+Branch
+MemtoReg
+MemWrite
+ALUSrc
+RegWrite
+PCToReg
+ExtMode
+=RegDst[1:0]=
+=ALUOp[3:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel MyControl
+

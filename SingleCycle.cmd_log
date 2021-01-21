@@ -1,0 +1,45 @@
+xst -intstyle ise -ifn "C:/Xilinx/modulefuck/SingleCycle.xst" -ofn "C:/Xilinx/modulefuck/SingleCycle.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc5vlx20t-ff323-2 SingleCycle.ngc SingleCycle.ngd  
+map -intstyle ise -p xc5vlx20t-ff323-2 -w -logic_opt off -ol high -t 1 -register_duplication off -global_opt off -mt off -cm area -ir off -pr off -lc off -power off -o SingleCycle_map.ncd SingleCycle.ngd SingleCycle.pcf 
+par -w -intstyle ise -ol high -mt off SingleCycle_map.ncd SingleCycle.ncd SingleCycle.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml SingleCycle.twx SingleCycle.ncd -o SingleCycle.twr SingleCycle.pcf 
+xst -intstyle ise -ifn "C:/Xilinx/modulefuck/SingleCycle.xst" -ofn "C:/Xilinx/modulefuck/SingleCycle.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc5vlx20t-ff323-2 SingleCycle.ngc SingleCycle.ngd  
+map -intstyle ise -p xc5vlx20t-ff323-2 -w -logic_opt off -ol high -t 1 -register_duplication off -global_opt off -mt off -cm area -ir off -pr off -lc off -power off -o SingleCycle_map.ncd SingleCycle.ngd SingleCycle.pcf 
+par -w -intstyle ise -ol high -mt off SingleCycle_map.ncd SingleCycle.ncd SingleCycle.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml SingleCycle.twx SingleCycle.ncd -o SingleCycle.twr SingleCycle.pcf 
+xst -intstyle ise -ifn "C:/Xilinx/modulefuck/SingleCycle.xst" -ofn "C:/Xilinx/modulefuck/SingleCycle.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc5vlx20t-ff323-2 SingleCycle.ngc SingleCycle.ngd  
+map -intstyle ise -p xc5vlx20t-ff323-2 -w -logic_opt off -ol high -t 1 -register_duplication off -global_opt off -mt off -cm area -ir off -pr off -lc off -power off -o SingleCycle_map.ncd SingleCycle.ngd SingleCycle.pcf 
+par -w -intstyle ise -ol high -mt off SingleCycle_map.ncd SingleCycle.ncd SingleCycle.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml SingleCycle.twx SingleCycle.ncd -o SingleCycle.twr SingleCycle.pcf 
+xst -intstyle ise -ifn "C:/Xilinx/modulefuck/SingleCycle.xst" -ofn "C:/Xilinx/modulefuck/SingleCycle.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 SingleCycle.ngc SingleCycle.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o SingleCycle_map.ncd SingleCycle.ngd SingleCycle.pcf 
+par -w -intstyle ise -ol high -mt off SingleCycle_map.ncd SingleCycle.ncd SingleCycle.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SingleCycle.twx SingleCycle.ncd -o SingleCycle.twr SingleCycle.pcf 
+xst -intstyle ise -ifn "C:/Xilinx/modulefuck/SingleCycle.xst" -ofn "C:/Xilinx/modulefuck/SingleCycle.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 SingleCycle.ngc SingleCycle.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o SingleCycle_map.ncd SingleCycle.ngd SingleCycle.pcf 
+par -w -intstyle ise -ol high -mt off SingleCycle_map.ncd SingleCycle.ncd SingleCycle.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SingleCycle.twx SingleCycle.ncd -o SingleCycle.twr SingleCycle.pcf 
+xst -intstyle ise -ifn "C:/Xilinx/modulefuck/SingleCycle.xst" -ofn "C:/Xilinx/modulefuck/SingleCycle.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 SingleCycle.ngc SingleCycle.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o SingleCycle_map.ncd SingleCycle.ngd SingleCycle.pcf 
+par -w -intstyle ise -ol high -mt off SingleCycle_map.ncd SingleCycle.ncd SingleCycle.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SingleCycle.twx SingleCycle.ncd -o SingleCycle.twr SingleCycle.pcf 
+xst -intstyle ise -ifn "C:/Xilinx/modulefuck/SingleCycle.xst" -ofn "C:/Xilinx/modulefuck/SingleCycle.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 SingleCycle.ngc SingleCycle.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o SingleCycle_map.ncd SingleCycle.ngd SingleCycle.pcf 
+par -w -intstyle ise -ol high -mt off SingleCycle_map.ncd SingleCycle.ncd SingleCycle.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SingleCycle.twx SingleCycle.ncd -o SingleCycle.twr SingleCycle.pcf 
+xst -intstyle ise -ifn "C:/Xilinx/modulefuck/SingleCycle.xst" -ofn "C:/Xilinx/modulefuck/SingleCycle.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 SingleCycle.ngc SingleCycle.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o SingleCycle_map.ncd SingleCycle.ngd SingleCycle.pcf 
+par -w -intstyle ise -ol high -mt off SingleCycle_map.ncd SingleCycle.ncd SingleCycle.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SingleCycle.twx SingleCycle.ncd -o SingleCycle.twr SingleCycle.pcf 
+xst -intstyle ise -ifn "C:/Xilinx/modulefuck/SingleCycle.xst" -ofn "C:/Xilinx/modulefuck/SingleCycle.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 SingleCycle.ngc SingleCycle.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o SingleCycle_map.ncd SingleCycle.ngd SingleCycle.pcf 
+par -w -intstyle ise -ol high -mt off SingleCycle_map.ncd SingleCycle.ncd SingleCycle.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SingleCycle.twx SingleCycle.ncd -o SingleCycle.twr SingleCycle.pcf 

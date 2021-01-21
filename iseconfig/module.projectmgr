@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="modulefuck" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>module</SelectedItem>
+         <SelectedItem>C:/Xilinx/project1/assemblycode.txt</SelectedItem>
+         <SelectedItem>C:/Xilinx/project1/data_memory.txt</SelectedItem>
+         <SelectedItem>C:/Xilinx/project1/machinecode.txt</SelectedItem>
+         <SelectedItem>xc7a100t-3csg324</SelectedItem>
+         <SelectedItem>SingleCycle (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U0_PC - PC (C:/Xilinx/project1/PC.v)</SelectedItem>
+         <SelectedItem>U1_IM - IM (C:/Xilinx/project1/IM.v)</SelectedItem>
+         <SelectedItem>U2_ADD_PC - ADD_PC (C:/Xilinx/project1/ADD_PC.v)</SelectedItem>
+         <SelectedItem>U3_RF - RF (C:/Xilinx/project1/RF.v)</SelectedItem>
+         <SelectedItem>U4_ALU - ALU (C:/Xilinx/project1/ALU.v)</SelectedItem>
+         <SelectedItem>U5_DM - DM (C:/Xilinx/project1/DM.v)</SelectedItem>
+         <SelectedItem>U6_SEU - SEU (C:/Xilinx/project1/SEU.v)</SelectedItem>
+         <SelectedItem>U7_ADD_BR - ADD_PC (C:/Xilinx/project1/ADD_PC.v)</SelectedItem>
+         <SelectedItem>U8_MUX_JWD - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U9_mx4_to_1 - mx4_to_1 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U10_MUX_ALU - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U11_MUX_WD - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U12_MUX_BR - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U13_MUX_J - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U14_ControlTop - ControlTop (C:/Xilinx/project1/ControlTop.v)</SelectedItem>
+         <SelectedItem>U0_MainControl - MainControl (C:/Xilinx/project1/MainControl.v)</SelectedItem>
+         <SelectedItem>U1_MyControl - MyControl (C:/Xilinx/project1/MyControl.v)</SelectedItem>
+         <SelectedItem>U2_MUX_RegDst - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U3_MUX_Jump - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U4_MUX_Branch - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U6_MUX_MemtoReg - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U7_MUX_MemWrite - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U8_MUX_ALUSrc - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U9_MUX_RegWrite - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U10_MUX_PCToReg - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U11_MUX_ALUOp - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U12_MUX_ExtMode - mx2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+         <SelectedItem>U15_ALUControl - ALUControl (C:/Xilinx/project1/ALUControl.v)</SelectedItem>
+         <SelectedItem>U16__And - And2 (C:/Xilinx/project1/SingleCycle.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >3</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000016b000000020000000000000000000000000200000064ffffffff0000008100000003000000020000016b0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>U1_IM - IM (C:/Xilinx/project1/IM.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002e3000000040101000100000000000000000000000064ffffffff0000008100000000000000040000004700000001000000000000002900000001000000000000007a0000000100000000000001f90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ADD_PC.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000117000000010001000100000000000000000000000064ffffffff000000810000000000000001000001170000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>C:/Xilinx/project1/machinecode.txt</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000017f000000020000000000000000000000000200000064ffffffff0000008100000003000000020000017f0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>C:/Xilinx/project1/machinecode.txt</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000012e0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+</Project>
