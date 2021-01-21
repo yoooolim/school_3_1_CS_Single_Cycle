@@ -8,13 +8,13 @@
 
 <명령어에 대한 기능과 동작>
 1. SLL
-|제목|내용|
+| 제목 | 내용 |
 |------|---|
-|name|SLL (Shift Left Logical) |
-|role|논리연산자|
-|type|R – Type|
-|opcode/fuc|op : 000000 / funct : 000000|
-|meaning|reg[Rd] <= ( reg [Rt] << shamt )|
-|ex|테스트2|
-|description|테스트2|
+| name | SLL (Shift Left Logical) |
+| role | 논리연산자 |
+| type | R – Type |
+| opcode/fuc | op : 000000 / funct : 000000 |
+| meaning | reg[Rd] <= ( reg [Rt] << shamt ) |
+| ex | 테스트2 |
+| description | 테스트2 |
 
